@@ -11,6 +11,7 @@ public class Kata1v2 {
         
         Person miPerson = new Person("Blas",date);
         System.out.println(miPerson.getName() + " tiene " + miPerson.getAge() + " años.");
+        System.out.println("ay diosito");
     }
     
 }
